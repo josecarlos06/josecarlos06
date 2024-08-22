@@ -20,7 +20,6 @@
 </td>
 <td><img align="center" alt="React" width="32px" src="https://www.svgrepo.com/show/452092/react.svg" >
 </td>
-<td><img align="center" alt="PHP" width="32px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" ></td>
 </tr>
 <trd>
 <td><img align="center" alt="MySQL" width="32px" src="https://storage.googleapis.com/production-hostgator-v1-0-8/648/227648/YF9aRJfO/9e25c498489a4627860d943b2d8749ea" ></td>
